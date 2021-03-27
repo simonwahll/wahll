@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Wahll Ref"
+title = "Wahll"
 titleSeparator = "-"
-titleAddition = "Open source programming tutorial and reference site"
-description = "Wahll Ref is an open source programming tutorial and reference site where anyone can learn and contribute."
+titleAddition = "Open source coding website!"
+description = "Wahll is an open source coding website where anyone can learn or contribute."
 
 ## Open Graph + Twitter Cards
 images = []
@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a><br>Contribute at <a href=\"https://github.com/simonwahll/wahllrefcontent\">GitHub site</a> and <a href=\"https://github.com/simonwahll/wahllrefcontent\">GitHub content</a><br>Page is licensed under the <a href=\"https://github.com/simonwahll/wahllref/blob/master/LICENSE\">MIT license</a> and the content is licensed under the <a href=\"https://github.com/simonwahll/wahllrefcontent/blob/main/LICENSE\">CC BY-SA license</a>."
+footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a><br>Contribute at <a href=\"https://github.com/simonwahll/wahllrefcontent\">GitHub site</a> and <a href=\"https://github.com/simonwahll/wahllrefcontent\">GitHub content</a><br>Page is licensed under the <a href=\"https://github.com/simonwahll/wahll/blob/master/LICENSE\">MIT license</a> and the content is licensed under the <a href=\"https://github.com/simonwahll/wahllcontent/blob/main/LICENSE\">CC0 license</a>."
 
 # Alert
 alert = false
