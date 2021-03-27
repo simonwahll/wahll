@@ -1,0 +1,58 @@
+# Meta Data for SEO
+
+## Homepage
+title = "Wahll Ref"
+titleSeparator = "-"
+titleAddition = "Open source programming tutorial and reference site"
+description = "Wahll Ref is an open source programming tutorial and reference site where anyone can learn and contribute."
+
+## Open Graph + Twitter Cards
+images = []
+twitterSite = ""
+twitterCreator = ""
+facebookAuthor = ""
+facebookPublisher = ""
+ogLocale = "en_US"
+
+## JSON-LD
+schemaType = ""
+schemaLogo = ""
+schemaTwitter = ""
+schemaLinkedIn = ""
+schemaGitHub = ""
+schemaSection = ""
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 85
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+portraitPhotoWidths = [800, 700, 600, 500]
+lqipWidth = "20x"
+
+# Footer
+footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a><br>Contribute at <a href=\"https://github.com/simonwahll/wahllrefcontent\">GitHub site</a> and <a href=\"https://github.com/simonwahll/wahllrefcontent\">GitHub content</a><br>Page is licensed under the <a href=\"https://github.com/simonwahll/wahllref/blob/master/LICENSE\">MIT license</a> and the content is licensed under the <a href=\"https://github.com/simonwahll/wahllrefcontent/blob/main/LICENSE\">CC BY-SA license</a>."
+
+# Alert
+alert = false
+alertText = ""
+
+# Edit Page
+docsRepo = "https://github.com/h-enk/doks"
+editPage = false
+
+[options]
+  lazySizes = true
+  clipBoard = false
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = false
+  breadCrumb = false
+  highLight = true
+  kaTex = false

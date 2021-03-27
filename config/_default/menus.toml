@@ -1,0 +1,9 @@
+[[main]]
+  name = "Python"
+  url = "/python/tutorial/chapter_1/"
+  weight = 1
+
+[[main]]
+  name = "Dart"
+  url = "/dart/reference/singleton/"
+  weight = 2
