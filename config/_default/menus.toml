@@ -1,4 +1,9 @@
 [[main]]
+  name = "Linux"
+  url = "/linux/distributions/"
+  weight = 3
+
+[[main]]
   name = "Python"
   url = "/python/tutorial/chapter_1/"
   weight = 1
