@@ -1,3 +1,13 @@
+[[linux]]
+  name = "Distributions"
+  url = "/linux/distributions/"
+  weight = 1
+
+[[linux]]
+  name = "Debian"
+  url = "/linux/debian/"
+  weight = 2
+
 [[main]]
   name = "Linux"
   url = "/linux/distributions/"
