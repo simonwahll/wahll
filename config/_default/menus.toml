@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Linux"
-  url = "/linux/distributions/"
+  url = "/linux/distributions/distributions/"
   weight = 3
 
 [[main]]
