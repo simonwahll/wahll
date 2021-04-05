@@ -8,6 +8,21 @@
   url = "/linux/debian/"
   weight = 2
 
+[[linux]]
+  name = "Random"
+  url = "/linux/random/"
+  weight = 3
+
+[[dart]]
+  name = "Dart"
+  url = "/dart/dart/"
+  weight = 1
+
+[[dart]]
+  name = "Design Patterns"
+  url = "/dart/design_patterns/"
+  weight = 2
+
 [[main]]
   name = "Linux"
   url = "/linux/distributions/distributions/"
@@ -20,5 +35,5 @@
 
 [[main]]
   name = "Dart"
-  url = "/dart/reference/singleton/"
+  url = "/dart/design_patterns/singleton/"
   weight = 2
