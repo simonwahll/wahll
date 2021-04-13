@@ -54,15 +54,17 @@ rel  = "sitemap"
     [markup.goldmark.renderer]
       unsafe = true
   [markup.highlight]
-    codeFences = false
+    anchorLineNos = false
+    codeFences = true
     guessSyntax = false
     hl_Lines = ""
+    lineAnchors = ""
     lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = false
-    style = "dracula"
-    tabWidth = 4
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "monokai"
+    tabWidth = 2
 
 [sitemap]
   changefreq = "weekly"
