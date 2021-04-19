@@ -1,6 +1,6 @@
 # Wahll
 
-The open source tutorial and reference site. It is built with [Hugo](https://gohugo.io/) and [Doks](https://github.com/h-enk/doks). Please take a look at these projects to understand and appriciate them. 
+Programming goodies. It is built with [Hugo](https://gohugo.io/) and [Doks](https://github.com/h-enk/doks). Please take a look at these projects to understand and appriciate them. 
 
 ## Contribute
 
