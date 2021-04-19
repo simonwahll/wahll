@@ -28,6 +28,10 @@ body.dark a {
   color: $link-color-dark;
 }
 
+body.dark a.navigation-card {
+  color: $body-color-dark;
+}
+
 body.dark a.text-body {
   color: $body-color-dark !important;
 }
@@ -252,7 +256,7 @@ body.dark .page-links li:not(:first-child) {
 
 body.dark .card {
   background: $body-bg-dark;
-  border: 1px solid $border-dark;
+  border: 2px solid $border-dark;
 }
 
 body.dark .card.bg-light {
