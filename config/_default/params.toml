@@ -43,8 +43,8 @@ alert = false
 alertText = ""
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/doks"
-editPage = false
+docsRepo = "https://github.com/simonwahll/wahllcontent/tree/main"
+editPage = true
 
 [options]
   lazySizes = true
