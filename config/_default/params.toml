@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a>.<br>Contribute at <a href=\"https://github.com/simonwahll/wahllrefcontent\">website</a> and <a href=\"https://github.com/simonwahll/wahllrefcontent\">content</a>.<br>The content on this page is licensed under the <a href=\"https://github.com/simonwahll/wahllcontent/blob/main/LICENSE\">CC0 license</a>.<br>Donate: BTC: bc1qpjslh8c076c6864vmwk0hjkg3yc04g7p2qklk2"
+footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a>.<br>Contribute at <a href=\"https://github.com/simonwahll/wahllrefcontent\">website</a> and <a href=\"https://github.com/simonwahll/wahllrefcontent\">content</a>.<br>The content on this page is licensed under the <a href=\"https://github.com/simonwahll/wahllcontent/blob/main/LICENSE\">CC0 license</a>.<br>Donate: BTC: bc1qpjslh8c076c6864vmwk0hjkg3yc04g7p2qklk2<br>XMR: 8BAVwFV6vtxC61tk5k2yYHLn6BzCw6hVdFp55GY8athEMCMtyQw9deK9aj1WGLGyQVTV64smrqk7GUE9vDVCsv8zRyXTpgR"
 
 # Alert
 alert = false
