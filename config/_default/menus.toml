@@ -23,6 +23,11 @@
   url = "/dart/design_patterns/"
   weight = 2
 
+[[dart]]
+  name = "Server"
+  url = "/dart/server/"
+  weight = 3
+
 [[main]]
   name = "Linux"
   url = "/linux/distributions/distributions/"
