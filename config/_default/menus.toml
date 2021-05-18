@@ -1,3 +1,8 @@
+[[javascript]]
+  name = "JavaScript"
+  url = "/javascript/javascript"
+  weight = 1
+
 [[linux]]
   name = "Distributions"
   url = "/linux/distributions/"
@@ -31,7 +36,7 @@
 [[main]]
   name = "Linux"
   url = "/linux/distributions/distributions/"
-  weight = 3
+  weight = 4
 
 [[main]]
   name = "Python"
@@ -42,3 +47,8 @@
   name = "Dart"
   url = "/dart/dart/introduction/"
   weight = 2
+
+[[main]]
+  name = "JavaScript"
+  url = "/javascript/javascript/variables"
+  weight = 3
