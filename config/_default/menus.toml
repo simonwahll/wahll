@@ -1,6 +1,6 @@
 [[javascript]]
   name = "JavaScript"
-  url = "/javascript/javascript"
+  url = "/javascript/javascript/"
   weight = 1
 
 [[linux]]
@@ -50,5 +50,5 @@
 
 [[main]]
   name = "JavaScript"
-  url = "/javascript/javascript/variables"
+  url = "/javascript/javascript/variables/"
   weight = 3
