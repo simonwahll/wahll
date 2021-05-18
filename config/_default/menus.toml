@@ -1,8 +1,3 @@
-[[javascript]]
-  name = "JavaScript"
-  url = "/javascript/javascript/"
-  weight = 1
-
 [[linux]]
   name = "Distributions"
   url = "/linux/distributions/"
@@ -17,6 +12,11 @@
   name = "Random"
   url = "/linux/random/"
   weight = 3
+
+[[javascript]]
+  name = "JavaScript"
+  url = "/javascript/javascript/"
+  weight = 1
 
 [[dart]]
   name = "Dart"
@@ -34,11 +34,6 @@
   weight = 3
 
 [[main]]
-  name = "Linux"
-  url = "/linux/distributions/distributions/"
-  weight = 4
-
-[[main]]
   name = "Python"
   url = "/python/tutorial/chapter_1/"
   weight = 1
@@ -52,3 +47,9 @@
   name = "JavaScript"
   url = "/javascript/javascript/variables/"
   weight = 3
+
+[[main]]
+  name = "Linux"
+  url = "/linux/distributions/distributions/"
+  weight = 4
+
